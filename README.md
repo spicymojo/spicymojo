@@ -19,4 +19,5 @@ https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=po
 
 <br>
 Want to know more?<br>
-[My CV](https://github.com/spicymojo/spicymojo/blob/main/CV%20Javier%20Santana%20Godoy.pdf)
+<a href="https://github.com/spicymojo/spicymojo/blob/main/CV%20Javier%20Santana%20Godoy.pdf">My CV</a>
+
