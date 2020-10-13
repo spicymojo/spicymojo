@@ -26,7 +26,7 @@ https://github.com/spicymojo/spicymojo/blob/main/files/icons/react.png)
 [![Gmail Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/gmail.png)](mailto:javiersantanagodoy@gmail.com)
 
 <br>
-Want to know more? Check my resume:<br>
-[My Resume](https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV%20Javier%20Santana%20Godoy.pdf)
+Want to know more? Check my resume:
+<a href="https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV%20Javier%20Santana%20Godoy.pdf"><img alt="Qries" src="https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume.png">
 
 
