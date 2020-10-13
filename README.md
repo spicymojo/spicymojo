@@ -10,8 +10,10 @@ I'm Javi, a software developer based in Canary Islands, Spain
 [![Linkedin Badge](https://img.shields.io/badge/-JavierSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javiersantanagodoy)](https://www.linkedin.com/in/javiersantanagodoy/)
 
 In this house we :heart::<br>
+
+<a href="#"><img height="40" src=""/></a>
 ![Java Badge](
-https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) 
+https://github.com/spicymojo/spicymojo/blob/main/icons/java.png) 
 ![Python Badge](
 https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![PostrgresBadge](
