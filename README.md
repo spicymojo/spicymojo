@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Javi, a software developers based in Canary Islands, Spain
+I'm Javi, a software developer based in Canary Islands, Spain
 
 - 🔭 I’m currently working on Bitbox (Ikea Spanish Islands)
 - 🌱 I’m currently learning about Devops
