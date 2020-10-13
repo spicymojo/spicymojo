@@ -9,17 +9,17 @@ I'm Javi, a software developer based in Canary Islands, Spain
 In this house we :heart::<br>
 
 ![Java Badge](
-https://github.com/spicymojo/spicymojo/lob/main/files/icons/java.png) 
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/java.png) 
 ![Python Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/python.png)
 ![Linux Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/linux.png)
 ![Raspberry Badge](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/raspberry.png)
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/raspberry-pi.png)
 
 Currently learning:<br>
 ![React Badge](
-https://github.com/spicymojo/spicymojo/blob/main/icons/react.png)
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/react.png)
 <br>
 📫 How to reach me:<br><br>
 [![Linkedin Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/linkedin.png (https://linkedin.com/in/javiersantanagodoy)
