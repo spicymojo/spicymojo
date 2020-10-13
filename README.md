@@ -27,6 +27,6 @@ https://github.com/spicymojo/spicymojo/blob/main/files/icons/react.png)
 
 <br>
 Want to know more? Check my resume:<br>
-[![Resume Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume.png)](mailto:javiersantanagodoy@gmail.com)
+![Resume](https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV%20Javier%20Santana%20Godoy.pdf)
 
 
