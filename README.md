@@ -18,5 +18,5 @@ https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python
 https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br>
-Want to know more?
-[My CV](CV Javier Santana Godoy.pdf)
+Want to know more?<br>
+[My CV](https://github.com/spicymojo/spicymojo/blob/main/CV%20Javier%20Santana%20Godoy.pdf)
