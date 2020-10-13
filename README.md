@@ -6,9 +6,6 @@ I'm Javi, a software developer based in Canary Islands, Spain
 - 🌱 I’m currently learning about Devops
 - 💬 Ask me anything interesting
 
-📫 How to reach me:<br><br>
-[![Linkedin Badge](https://github.com/spicymojo/spicymojo/blob/main/icons/linkedin.png)](https://linkedin.com/in/javiersantanagodoy)
-
 In this house we :heart::<br>
 
 ![Java Badge](
@@ -21,6 +18,10 @@ https://github.com/spicymojo/spicymojo/blob/main/icons/linux.png)
 Currently learning:<br>
 ![React Badge](
 https://github.com/spicymojo/spicymojo/blob/main/icons/react.png)
+<br>
+📫 How to reach me:<br><br>
+[![Linkedin Badge](https://github.com/spicymojo/spicymojo/blob/main/icons/linkedin.png)](https://linkedin.com/in/javiersantanagodoy)
+[![Gmail Badge](https://github.com/spicymojo/spicymojo/blob/main/icons/gmail.png)](mailto:javiersantanagodoy@gmail.com)
 
 <br>
 Want to know more?<br>
