@@ -22,7 +22,7 @@ Currently learning:<br>
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/react.png)
 <br>
 📫 How to reach me:<br><br>
-[![Linkedin Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/linkedin.png](https://linkedin.com/in/javiersantanagodoy)
+[![Linkedin Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/linkedin.png)](https://linkedin.com/in/javiersantanagodoy)
 [![Gmail Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/gmail.png)](mailto:javiersantanagodoy@gmail.com)
 
 <br>
