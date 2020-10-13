@@ -16,3 +16,7 @@ https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&l
 https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![PostrgresBadge](
 https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+Want to know more?
+[My CV](CV Javier Santana Godoy.pdf)
