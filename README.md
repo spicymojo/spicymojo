@@ -7,7 +7,7 @@ I'm Javi, a software developer based in Canary Islands, Spain
 - 💬 Ask me anything interesting
 
 📫 How to reach me:<br><br>
-![Linkedin Badge][https://github.com/spicymojo/spicymojo/blob/main/icons/linkedin.png](https://linkedin.com/in/javiersantanagodoy)
+[![Linkedin Badge](https://github.com/spicymojo/spicymojo/blob/main/icons/linkedin.png)](https://linkedin.com/in/javiersantanagodoy)
 
 In this house we :heart::<br>
 
