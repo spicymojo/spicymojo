@@ -12,7 +12,6 @@ I'm Javi, a software developers based in Canary Islands, Spain
 <br>
 In this house we :heart::
 <br>
-
 ![Java Badge](
 https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) 
 ![Python Badge](
