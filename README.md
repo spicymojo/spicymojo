@@ -21,6 +21,11 @@ Currently learning:<br>
 ![React Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/react.png)
 <br>
+Courses and certifications:
+![Linux Badge](https://github.com/spicymojo/course_certificates)](
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/linux.png)
+<br>
+
 📫 How to reach me:<br><br>
 [![Linkedin Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/linkedin.png)](https://linkedin.com/in/javiersantanagodoy)
 [![Gmail Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/gmail.png)](mailto:javiersantanagodoy@gmail.com)
