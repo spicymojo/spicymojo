@@ -22,8 +22,7 @@ Currently learning:<br>
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/react.png)
 <br>
 Courses and certifications:
-![Linux Badge](https://github.com/spicymojo/course_certificates)](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/linux.png)
+[![Certification Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/certificate.png)](https://github.com/spicymojo/course_certificates)
 <br>
 
 📫 How to reach me:<br><br>
