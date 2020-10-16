@@ -21,7 +21,7 @@ Currently learning:<br>
 ![React Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/react.png)
 <br>
-Courses and certifications:
+Courses and certifications:<br>
 [![Certification Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/certificate.png)](https://github.com/spicymojo/course_certificates)
 <br>
 
