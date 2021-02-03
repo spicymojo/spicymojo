@@ -3,7 +3,7 @@
 I'm Javi, a software developer based in Canary Islands, Spain
 
 - 🔭 I’m currently working at [Plexus Tech ](https://www.linkedin.com/company/plexus-tech)
-- 🌱 I’m currently learning about the efficient way of test
+- 🌱 I’m currently learning about the efficient way of testing complex apps
 - 💬 Ask me anything interesting
 
 In this house we :heart::<br>
