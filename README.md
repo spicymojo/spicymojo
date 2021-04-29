@@ -31,5 +31,6 @@ Courses and certifications:<br>
 
 <br>
 Want to know more? Check my resume:<br>
+
 [![English resume](https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume_eng.png)](https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV_Javier_Santana_Godoy_ENG.pdf)
 [![Spanish resume](https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume_esp.png)](https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV_Javier_Santana_Godoy_ESP.pdf)
