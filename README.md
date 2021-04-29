@@ -9,7 +9,7 @@ I'm Javi, a software developer based in Canary Islands, Spain
 In this house we :heart::<br>
 
 ![Java Badge](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/java.png) 
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/java.png)
 ![Python Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/python.png)
 ![Linux Badge](
@@ -18,8 +18,8 @@ https://github.com/spicymojo/spicymojo/blob/main/files/icons/linux.png)
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/raspberry-pi.png)
 
 Currently learning:<br>
-![React Badge](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/react.png)
+![AI Badge](
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/ai.png)
 <br>
 Courses and certifications:<br>
 [![Certification Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/certificate.png)](https://github.com/spicymojo/course_certificates)
@@ -31,6 +31,5 @@ Courses and certifications:<br>
 
 <br>
 Want to know more? Check my resume:<br>
-<a href="https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV%20Javier%20Santana%20Godoy.pdf"><img alt="Qries" src="https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume.png">
-
-
+<a href="https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV_Javier_Santana_Godoy_ENG.pdf"><img alt="Qries" src="https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume_eng.png">
+<a href="https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV_Javier_Santana_Godoy_ESP.pdf"><img alt="Qries" src="https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume_esp.png">
