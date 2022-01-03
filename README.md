@@ -10,9 +10,9 @@ In this house we :heart::<br>
 ![Java Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/java.png)
 ![Spring Boot Badge](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/java.png)
-![Python Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/spring_boot.png)
+![Python Badge](
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/python.png)
 ![Linux Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/linux.png)
 ![Raspberry Badge](
