@@ -3,24 +3,21 @@
 I'm Javi, a software developer based in Canary Islands, Spain
 
 - 🔭 I’m currently working at [Toq.io](https://www.linkedin.com/company/toqiofintech/)
-- 🌱 I’m currently learning about the efficient way of testing complex apps
-- 💬 Ask me anything interesting
+- 💬 I'm a backend developer in love with Clean Code and Scrum metodologies
 
 In this house we :heart::<br>
 
 ![Java Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/java.png)
+![Spring Boot Badge](
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/java.png)
 ![Python Badge](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/python.png)
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/spring_boot.png)
 ![Linux Badge](
 https://github.com/spicymojo/spicymojo/blob/main/files/icons/linux.png)
 ![Raspberry Badge](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/raspberry-pi.png)
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/raspberry_pi.png)
 
-Currently learning:<br>
-![AI Badge](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/ai.png)
-<br>
 Courses and certifications:<br>
 [![Certification Badge](https://github.com/spicymojo/spicymojo/blob/main/files/icons/certificate.png)](https://github.com/spicymojo/course_certificates)
 <br>
@@ -32,5 +29,4 @@ Courses and certifications:<br>
 <br>
 Want to know more? Check my resume:<br>
 
-[![English resume](https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume_eng.png)](https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV_Javier_Santana_Godoy_ENG.pdf)
-[![Spanish resume](https://github.com/spicymojo/spicymojo/blob/main/files/icons/download_resume_esp.png)](https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV_Javier_Santana_Godoy_ESP.pdf)
+[![Resume](https://github.com/spicymojo/spicymojo/blob/main/files/icons/resume.png)](https://github.com/spicymojo/spicymojo/blob/main/files/documents/CV_Javier_Santana_Godoy.pdf)
