@@ -3,7 +3,7 @@
 I'm Javi, a software developer based in Canary Islands, Spain
 
 - 🔭 I’m currently working at ![Toq.io](
-https://github.com/spicymojo/spicymojo/blob/main/files/icons/toqio.png)
+https://github.com/spicymojo/spicymojo/blob/main/files/icons/edreams.png)
 - 💬 I'm a backend developer in love with Clean Code and Scrum metodologies
 
 In this house we :heart::<br>
